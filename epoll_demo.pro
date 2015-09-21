@@ -10,5 +10,6 @@ HEADERS += \
     util.h
 
 OTHER_FILES += \
-    cli.py
+    cli.py \
+    README.md
 

@@ -1,3 +1,6 @@
 /main
 *.o
 /make.deps
+/build-epoll_demo-Desktop-Debug/epoll_demo
+/build-epoll_demo-Desktop-Debug/Makefile
+/main.cpp.autosave
